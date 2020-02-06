@@ -3,5 +3,5 @@ The application "Calculator" with the ability to perform mathematical calculatio
 
 
 <img src="screenshots/Screenshot_20200201-195527.jpg" width="400" height="790">
-![alt text](screenshots/Screenshot_20200201-195527.jpg "Скриншот приложения")
-![alt text](screenshots/Screenshot_20200201-195531.jpg "")
+<img src="screenshots/Screenshot_20200201-195531.jpg" width="400" height="790">
+
